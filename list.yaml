@@ -114,17 +114,17 @@
 - name: "bashblog"
   github: "cfenollosa/bashblog"
   license: "GPL"
-
+  language: "Bash"
 
 - name: "bazinga"
   github: "ap0calypse/bazinga"
   license: "GPL"
-
+  language: "Perl"
 
 - name: "Benjen"
   github: "daeken/Benjen"
   license: "Public"
-
+  language: "Python"
 
 - name: "BitBalloon"
   license: "Commercial"
@@ -136,6 +136,7 @@
 - name: "Blacksmith"
   github: "flatiron/blacksmith"
   license: "MIT"
+  language: "Node.js"
 
 
 - name: "BlazeBlogger"
@@ -154,7 +155,7 @@
 - name: "Blode"
   github: "stackoverflow/blode"
   license: false
-
+  language: "Node.js"
 
 - name: "Blogfy"
   github: "wifiextender/blogfy"
@@ -168,7 +169,7 @@
   github: "EnigmaCurry/blogofile"
   license: "MIT"
   website: "http://www.blogofile.com/"
-
+  language: "Python"
 
 #- name: "Blogmark"
 #  license: "Commercial"
@@ -207,7 +208,7 @@
   github: "benschwarz/bonsai"
   license: "MIT"
   website: "http://tinytree.info/"
-
+  language: "Ruby"
 
 - name: "Brace"
   license: "Commercial"
@@ -219,7 +220,7 @@
 - name: "Bread"
   github: "pvorb/node-bread"
   license: "MIT"
-
+  language: "Node.js"
 
 - name: "Bricolage CMS"
   github: "bricoleurs/bricolage"
@@ -232,7 +233,7 @@
 - name: "brochure"
   github: "sstephenson/brochure"
   license: "MIT"
-
+  Language: "Ruby"
 
 #- name: "Brunch"
 #  github: "brunch/brunch"
@@ -243,36 +244,38 @@
 - name: "buster"
   github: "axitkhurana/buster"
   license: "MIT"
+  language: "Python"
 
 - name: "Cabin"
   github: "CabinJS/Cabin"
   license: "MIT"
   website: "http://www.cabinjs.com/"
-
+  language: "Javascript"
 
 - name: "Cactus"
   github: "koenbok/Cactus"
   license: "BSD"
   website: "http://cactusformac.com/"
-
+  language: "Python"
 
 - name: "Calepin"
   github: "jokull/calepin"
   license: "ISC"
   website: "http://calepin.co/"
-
+  language: "Python"
+  description: "Publish your markdown documents with the Dropbox API"
 
 - name: "Chili"
   github: "clvrobj/chili"
   license: "MIT"
   # website: "http://chilipy.com/"
   # ^ 502 error
-
+  language: "Python"
 
 - name: "Chisel"
   github: "dz/chisel"
   license: false
-
+  language: "Python"
 
 - name: "Chronicle"
   github: "skx/chronicle2"
@@ -285,7 +288,7 @@
 - name: "Cipherpress"
   github: "lejonet/Cipherpress"
   license: "GPL"
-
+  language: "Python"
 
 - name: "cl-blog-generator"
   github: "hugoduncan/cl-blog-generator"
@@ -296,17 +299,18 @@
 - name: "Codex"
   github: "logicalparadox/codex"
   license: "MIT"
-
+  language: "Node.js"
 
 - name: "coleslaw"
   github: "redline6561/coleslaw"
   license: "BSD"
   website: "http://www.cliki.net/coleslaw"
-
+  language: "Lisp"
 
 - name: "Composer"
   github: "shazow/composer"
   license: "MIT"
+  language: "Python"
 
 
 - name: "creo"
@@ -319,13 +323,13 @@
 - name: "cub"
   github: "patcoll/cub"
   license: "MIT"
-
+  language: "PHP"
 
 - name: "cyrax"
   github: "piranha/cyrax"
   license: "BSD"
   website: "http://pypi.python.org/pypi/cyrax"
-
+  language: "Python"
 
 - name: "cytoplasm"
   github: "startling/cytoplasm"
@@ -337,7 +341,7 @@
   github: "whtsky/Catsup"
   license: "MIT"
   website: "https://github.com/whtsky/Catsup/"
-
+  language: "Python"
 
 - name: "Dapper"
   github: "markdbenson/dapper"
@@ -356,7 +360,7 @@
 - name: "Deplot"
   github: "cdn64/deplot"
   license: "MIT"
-
+  language: "Ruby"
 
 - name: "Divshot"
   license: "Commercial"
@@ -375,12 +379,12 @@
   github: "mtigas/django-medusa"
   license: "MIT"
   website: "https://mike.tig.as/blog/2012/06/30/django-medusa-rendering-django-sites-static-html/"
-
+  language: "Python"
 
 - name: "djangothis"
   github: "amitu/djangothis"
   license: "BSD"
-
+  language: "Python"
 
 - name: "DocPad"
   github: "docpad/docpad"
@@ -401,13 +405,13 @@
   github: "louissobel/Drapache"
   license: "MIT"
   website: false
-
+  language: "Python"
 
 - name: "drfrederson"
   github: "klml/drfrederson"
   license: "MIT"
   website: "http://drf.grus.uberspace.de"
-
+  language: "PHP"
 
 - name: "dropbox-blog"
   github: "markashleybell/dropbox-blog"
@@ -1332,7 +1336,7 @@
 - name: "Pelican"
   github: "getpelican/pelican"
   license: "GPL"
-
+  language: "Python"
 
 - name: "Petrify"
   github: "caolan/petrify"
