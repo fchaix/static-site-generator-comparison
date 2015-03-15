@@ -114,16 +114,19 @@
 - name: "bashblog"
   github: "cfenollosa/bashblog"
   license: "GPL"
+  language: "Bash"
 
 
 - name: "bazinga"
   github: "ap0calypse/bazinga"
   license: "GPL"
+  language: "Perl"
 
 
 - name: "Benjen"
   github: "daeken/Benjen"
   license: "Public"
+  language: "Python"
 
 
 - name: "BitBalloon"
@@ -136,6 +139,7 @@
 - name: "Blacksmith"
   github: "flatiron/blacksmith"
   license: "MIT"
+  language: "Node.js"
 
 
 - name: "BlazeBlogger"
@@ -154,6 +158,7 @@
 - name: "Blode"
   github: "stackoverflow/blode"
   license: false
+  language: "Node.js"
 
 
 - name: "Blogfy"
@@ -168,6 +173,7 @@
   github: "EnigmaCurry/blogofile"
   license: "MIT"
   website: "http://www.blogofile.com/"
+  language: "Python"
 
 
 #- name: "Blogmark"
@@ -207,6 +213,7 @@
   github: "benschwarz/bonsai"
   license: "MIT"
   website: "http://tinytree.info/"
+  language: "Ruby"
 
 
 - name: "Brace"
@@ -219,6 +226,7 @@
 - name: "Bread"
   github: "pvorb/node-bread"
   license: "MIT"
+  Language: "Javascript"
 
 
 - name: "Bricolage CMS"
@@ -232,6 +240,7 @@
 - name: "brochure"
   github: "sstephenson/brochure"
   license: "MIT"
+  Language: "Ruby"
 
 
 #- name: "Brunch"
@@ -243,28 +252,34 @@
 - name: "buster"
   github: "axitkhurana/buster"
   license: "MIT"
+  language: "Python"
+  description: "Super simple, Totally awesome, Brute force static site generator for Ghost."
 
 - name: "Cabin"
   github: "CabinJS/Cabin"
   license: "MIT"
   website: "http://www.cabinjs.com/"
+  language: "Javascript"
 
 
 - name: "Cactus"
   github: "koenbok/Cactus"
   license: "BSD"
   website: "http://cactusformac.com/"
+  language: "Python"
 
 
 - name: "Calepin"
   github: "jokull/calepin"
   license: "ISC"
   website: "http://calepin.co/"
+  language: "Dropbox API"
 
 
 - name: "Chili"
   github: "clvrobj/chili"
   license: "MIT"
+  language: "Dropbox API"
   # website: "http://chilipy.com/"
   # ^ 502 error
 
@@ -272,6 +287,7 @@
 - name: "Chisel"
   github: "dz/chisel"
   license: false
+  language: "Python"
 
 
 - name: "Chronicle"
@@ -285,6 +301,7 @@
 - name: "Cipherpress"
   github: "lejonet/Cipherpress"
   license: "GPL"
+  language: "Python"
 
 
 - name: "cl-blog-generator"
@@ -1332,6 +1349,7 @@
 - name: "Pelican"
   github: "getpelican/pelican"
   license: "GPL"
+  language: "python"
 
 
 - name: "Petrify"
